@@ -1,0 +1,2 @@
+compile BoardCalibration.cpp /.h as Release --> and you will get OpenCvProject.dll (   OpenCvProject.dll  its project`s name  )
+CameraCalibrationFile -- file for camera with data

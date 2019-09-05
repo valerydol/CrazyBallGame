@@ -1,0 +1,9 @@
+	if ( you want calibrate your camera )
+	{
+		use main.cpp
+	}
+	else{
+
+		first of all open CPP 
+		after that C#
+	}

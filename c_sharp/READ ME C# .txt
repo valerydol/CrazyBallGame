@@ -1,0 +1,17 @@
+get .dll and simply add to Unity
+
+Object Sphere (Ball)
+add:
+Moving.cs --> movie ball with keyboard
+VirtualMoving.cs --> movie ball with Aruco Markers
+Arrow --> show detected moving side
+
+Object Plane -- this is your screen 
+add:
+Test.cs -- its our  main :)
+PlaneFollow.cs -- > move video screen after players camera
+
+
+Camera Object 
+add:
+MouseLook.cs
